@@ -50,5 +50,3 @@ def _detect_nogil_mode() -> None:
         )
 
 _detect_nogil_mode()
-
-
